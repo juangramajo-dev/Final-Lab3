@@ -1,0 +1,25 @@
+{
+    "codigo": "pan1",
+    "nombre": "pan frances",
+    "marca": "pan frances",
+    "categoria": "panificacion",
+    "distribuidor": "La nueva panificadora",
+    "barcode": 7900001,
+    "stock": 50,
+    "enabled": 1,
+    "precio": 100,
+    "descripcion": "pan frances de la nueva panificadora"
+}
+
+{
+    "codigo": "pan2",
+    "nombre": "pan de grasa",
+    "marca": "pan de grasa",
+    "categoria": "panificacion",
+    "distribuidor": "La nueva panificadora",
+    "barcode": 7900002,
+    "stock": 50,
+    "enabled": 1,
+    "precio": 110,
+    "descripcion": "pan de grasa de la nueva panificadora"
+}
